@@ -11,6 +11,8 @@ public class triangulo {
 	      FileReader fr = null;
 	      BufferedReader br = null;
 	      int flag=0;
+	      
+	      System.out.println("Gente vaga nomas");
 
 	      try {
 	         archivo = new File (path);
