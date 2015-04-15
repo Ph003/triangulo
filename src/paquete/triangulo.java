@@ -12,7 +12,7 @@ public class triangulo {
 	      BufferedReader br = null;
 	      int flag=0;
 	      
-	      	System.out.println("esteban pt");
+	      	System.out.println("esteban pt 2");
 
 	      try {
 	         archivo = new File (path);
