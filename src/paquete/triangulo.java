@@ -13,6 +13,7 @@ public class triangulo {
 	      int flag=0;
 	      
 	      	System.out.println("esteban pt 2");
+	      	System.out.println("cambios");
 
 	      try {
 	         archivo = new File (path);
