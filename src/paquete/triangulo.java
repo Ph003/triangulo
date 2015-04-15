@@ -14,6 +14,7 @@ public class triangulo {
 	      
 	      	System.out.println("esteban pt 2");
 	      	System.out.println("cambios");
+	      	System.out.println("iiiiiiiiiiiiii");
 
 	      try {
 	         archivo = new File (path);
